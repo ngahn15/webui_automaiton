@@ -1,4 +1,9 @@
-C:\Users\ngocn\eclipse-workspace\webui_automation\src\test\java\vn\amabuy\features\search\SearchByKeywordStory.java
-C:\Users\ngocn\eclipse-workspace\webui_automation\src\test\java\vn\amabuy\pages\DictionaryPage.java
-C:\Users\ngocn\eclipse-workspace\webui_automation\src\test\java\vn\amabuy\steps\serenity\EndUserSteps.java
-C:\Users\ngocn\eclipse-workspace\webui_automation\src\test\java\vn\amabuy\features\search\package-info.java
+C:\Users\ngocn\eclipse-workspace\webui_automation\src\test\java\vn\amabuy\features\package-info.java
+C:\Users\ngocn\eclipse-workspace\webui_automation\src\test\java\vn\amabuy\pages\HomePage.java
+C:\Users\ngocn\eclipse-workspace\webui_automation\src\test\java\vn\amabuy\features\WhenOpeningWebBrowser.java
+C:\Users\ngocn\eclipse-workspace\webui_automation\src\test\java\vn\amabuy\pages\LoginPage.java
+C:\Users\ngocn\eclipse-workspace\webui_automation\src\test\java\vn\amabuy\pages\RegisterPage.java
+C:\Users\ngocn\eclipse-workspace\webui_automation\src\test\java\vn\amabuy\steps\serenity\HomeSteps.java
+C:\Users\ngocn\eclipse-workspace\webui_automation\src\test\java\vn\amabuy\steps\serenity\RegisterSteps.java
+C:\Users\ngocn\eclipse-workspace\webui_automation\src\test\java\vn\amabuy\steps\serenity\LoginSteps.java
+C:\Users\ngocn\eclipse-workspace\webui_automation\src\test\java\vn\amabuy\features\register\WhenRegisterNewAccount.java

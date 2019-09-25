@@ -1,0 +1,10 @@
+vn\amabuy\steps\serenity\LoginSteps.class
+vn\amabuy\pages\RegisterPage$Target.class
+vn\amabuy\steps\serenity\RegisterSteps.class
+vn\amabuy\pages\HomePage.class
+vn\amabuy\features\register\WhenRegisterNewAccount.class
+vn\amabuy\pages\RegisterPage.class
+vn\amabuy\pages\LoginPage.class
+vn\amabuy\features\package-info.class
+vn\amabuy\steps\serenity\HomeSteps.class
+vn\amabuy\features\WhenOpeningWebBrowser.class
